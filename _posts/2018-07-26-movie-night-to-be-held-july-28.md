@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-07-26 02:17:49
 ---
-<img title="" src="http://midmichiganjournal.com/wp-content/uploads/2018/07/null-2.png" alt="" width="488" height="269" />
+&nbsp;
 
 A free movie night will be held on Saturday, July 28th outside of Mitchell’s Gourmet starting at 9 p.m. The featured movie will be “Thor.”
 
