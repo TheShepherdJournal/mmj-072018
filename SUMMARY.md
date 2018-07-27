@@ -1,6 +1,7 @@
 # Summary
 
 * [Cover Page](README.md)
+* [The Readout | 07/26/2018](_posts/2018-07-27-the-readout.md)
 
 ## Resources
 
