@@ -10,7 +10,7 @@ permalink: >
 published: true
 post_date: 2018-07-27 18:16:42
 ---
-<img title="" src="http://midmichiganjournal.com/wp-content/uploads/2018/07/null-4.png" alt="" width="624" height="388" />
+&nbsp;
 
 This month, I launched a news website called the <i>Mid Michigan Journal</i>. It is a relaunch of a news resource I had been maintaining during the last few years called <i>The Shepherd Journa</i>l, which was focused around the Shepherd Community.
 
