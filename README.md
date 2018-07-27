@@ -1,1 +1,6 @@
-# mmj-072018
+# The Mid Michigan Journal
+
+
+
+
+
