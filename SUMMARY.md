@@ -9,7 +9,7 @@
 * Web Resources
 
 ## Social Media
-* Twitter
+* [Twitter](https://twitter.com/midmichjournal)
 * [Facebook](https://www.facebook.com/Mid-Michigan-Journal-141077906299911/)
 
 ## Contact Us
