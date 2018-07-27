@@ -1,10 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
+* [Cover Page](README.md)
 
 ## Resources
 
-* Mid Michigan Journal Website
+* [Mid Michigan Journal Website](http://www.midmichiganjournal.com)
 * Business Directory
 * Web Resources
 
