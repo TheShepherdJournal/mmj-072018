@@ -10,9 +10,10 @@
 
 ## Social Media
 * Twitter
-* Facebook
+* [Facebook](https://www.facebook.com/Mid-Michigan-Journal-141077906299911/)
 
 ## Contact Us
-* Email
+* [Email](mailto:editor@midmichiganjournal.com)
 * Phone: (989) 828-4038
+* Submit News
 
