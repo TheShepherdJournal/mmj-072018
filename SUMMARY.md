@@ -6,15 +6,15 @@
 ## Resources
 
 * [Mid Michigan Journal Website](http://www.midmichiganjournal.com)
-* Business Directory
-* Web Resources
+* [Business Directory](http://midmichiganjournal.com/business)
+* [Web Resources](http://midmichiganjournal.com/web-resources)
 
 ## Social Media
 * [Twitter](https://twitter.com/midmichjournal)
 * [Facebook](https://www.facebook.com/Mid-Michigan-Journal-141077906299911/)
 
-## Contact Us
+## Get in Touch
 * [Email](mailto:editor@midmichiganjournal.com)
 * Phone: (989) 828-4038
-* Submit News
+* [Submit News](http://midmichiganjournal.com/post-a-story)
 
