@@ -10,8 +10,6 @@ permalink: >
 published: true
 post_date: 2018-07-27 18:16:42
 ---
-&nbsp;
-
 This month, I launched a news website called the <i>Mid Michigan Journal</i>. It is a relaunch of a news resource I had been maintaining during the last few years called <i>The Shepherd Journa</i>l, which was focused around the Shepherd Community.
 
 I am looking forward to the chance to provide coverage of Shepherd as well as the greater Mid Michigan area. I am accepting submission of news tips and/or articles via the website (there is a link towards the top labeled "Post a Story") or via the email <a href="mailto:editor@midmichiganjournal.com">editor@midmichiganjournal.com</a>.
