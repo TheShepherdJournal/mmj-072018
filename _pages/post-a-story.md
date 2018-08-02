@@ -1,8 +1,9 @@
 ---
+---
 ID: 61
 post_title: Post a Story
 author: Jon Morgan
-post_excerpt: ""
+post_excerpt:
 layout: page
 permalink: >
   http://midmichiganjournal.com/post-a-story
