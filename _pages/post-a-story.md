@@ -10,6 +10,4 @@ permalink: >
 published: true
 post_date: 2018-07-21 19:51:43
 ---
-<!-- wp:paragraph -->
-<p>[user-submitted-posts]</p>
-<!-- /wp:paragraph -->
+[wpuf_form id="283"]
