@@ -22,6 +22,6 @@ Three days after making the announcement, all of the boxes had been passed out.
 
 Emily Lint, a teacher from Chippewa Hills, was one of the teachers who picked up a box of supplies. "This is a great way to kick off my first year of teaching."
 
-[gallery ids="382,383,384,381"]
+[gallery columns="2" ids="382,383,384,381"]
 
 &nbsp;
