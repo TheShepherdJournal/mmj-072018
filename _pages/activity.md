@@ -1,8 +1,9 @@
 ---
+---
 ID: 11
 post_title: Activity
-author: ng23055
-post_excerpt: ""
+author: Jon Morgan
+post_excerpt:
 layout: page
 permalink: http://midmichiganjournal.com/activity
 published: true
