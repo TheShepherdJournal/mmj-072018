@@ -22,5 +22,5 @@ post_date: 2018-08-05 12:32:31
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>&nbsp;</p>
+<p>[agilepress board=kanban product=mid-michigan-journal-8-6]</p>
 <!-- /wp:paragraph -->
