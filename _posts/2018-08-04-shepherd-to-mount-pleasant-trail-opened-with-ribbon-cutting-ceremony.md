@@ -20,7 +20,7 @@ During his opening statement, Mid Michigan Community Pathways president Steve Da
 
 The ceremony was followed by a 5K run which took participants along the new pathway towards Summerton and then back again.
 
-<a href="http://midmichiganjournal.com/?attachment_id=329" rel="attachment wp-att-329"><img class="alignnone size-medium wp-image-329" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/100_6345-487x365.jpg" alt="" width="487" height="365"></a>
+<a href="http://midmichiganjournal.com/shepherd-to-mount-pleasant-trail-opened-with-ribbon-cutting-ceremony/100_6345" rel="attachment wp-att-329"><img class="alignnone size-medium wp-image-329" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/100_6345-487x365.jpg" alt="" width="487" height="365"></a>
 
 <strong>Related Media:</strong>
 <ul>
