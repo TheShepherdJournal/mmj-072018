@@ -14,7 +14,7 @@ post_date: 2018-08-05 12:32:31
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>[agilepress board=backlog product=mid-michigan-journal-8-6]</p>
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
@@ -22,5 +22,5 @@ post_date: 2018-08-05 12:32:31
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>[agilepress board=kanban product=mid-michigan-journal-8-6]</p>
+<p></p>
 <!-- /wp:paragraph -->
