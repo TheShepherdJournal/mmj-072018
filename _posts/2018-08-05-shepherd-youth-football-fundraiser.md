@@ -19,7 +19,7 @@ post_date: 2018-08-05 09:21:06
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Proceeds from the sale go towards the cost of football registration and uniforms. If you are interested, just talk to the parent of a Youth Football athlete.</p>
+<p>Proceeds from the sale go towards the cost of football registration and uniforms. If you are interested, just talk to the parent of a Youth Football athlete. The sale of the discount cards will continue until August 9.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":350} -->
