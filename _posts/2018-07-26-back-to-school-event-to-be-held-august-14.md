@@ -1,10 +1,11 @@
 ---
+---
 ID: 116
 post_title: >
   Back to School event to be held August
   14
 author: Jon Morgan
-post_excerpt: ""
+post_excerpt:
 layout: post
 permalink: >
   http://midmichiganjournal.com/back-to-school-event-to-be-held-august-14
