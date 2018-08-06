@@ -1,6 +1,7 @@
 # The Mid Michigan Journal
 
-## Pocket Edition
+## August 6, 2018
+### Pocket Edition
 
 
 
