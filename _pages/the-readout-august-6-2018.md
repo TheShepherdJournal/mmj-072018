@@ -12,7 +12,7 @@ post_date: 2018-08-05 21:14:17
 ---
 [tabby title="Articles"]
 
-[ic_add_posts category='Readout' tag='08062018]
+[ic_add_posts category='Readout' tag='08062018']
 
 [tabby title="Downloads"]
 
