@@ -1,10 +1,11 @@
 ---
+---
 ID: 85
 post_title: >
   Ribbon Cutting Ceremony for Shepherd to
   Mount Pleasant trail to be held August 1
 author: Jon Morgan
-post_excerpt: ""
+post_excerpt:
 layout: post
 permalink: >
   http://midmichiganjournal.com/ribbon-cutting-ceremony-for-shepherd-to-mount-pleasant-trail-to-be-held-august-1
