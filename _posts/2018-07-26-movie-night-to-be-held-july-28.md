@@ -1,8 +1,9 @@
 ---
+---
 ID: 125
 post_title: Movie Night to be held July 28
 author: Jon Morgan
-post_excerpt: ""
+post_excerpt:
 layout: post
 permalink: >
   http://midmichiganjournal.com/movie-night-to-be-held-july-28
