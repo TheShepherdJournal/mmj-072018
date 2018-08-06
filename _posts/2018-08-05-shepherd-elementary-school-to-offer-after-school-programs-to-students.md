@@ -3,7 +3,7 @@
 ID: 387
 post_title: >
   Shepherd Elementary School to offer
-  AFter-School programs to students
+  After-School programs to students
 author: Jon Morgan
 post_excerpt:
 layout: post
