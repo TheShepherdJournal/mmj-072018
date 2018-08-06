@@ -10,7 +10,7 @@ permalink: >
 published: true
 post_date: 2018-08-05 21:14:17
 ---
-<a href="http://midmichiganjournal.com/shepherd-to-mount-pleasant-trail-opened-with-ribbon-cutting-ceremony/100_6309" rel="attachment wp-att-327"><img class="alignnone size-medium wp-image-327" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/100_6309-487x365.jpg" alt="" width="487" height="365" /></a>
+&nbsp;
 
 [tabby title="Articles"]
 
