@@ -1,5 +1,4 @@
 ---
----
 ID: 205
 post_title: Shepherd Community Farm to Table 2017
 author: Jon Morgan

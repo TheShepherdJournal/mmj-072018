@@ -1,5 +1,4 @@
 ---
----
 ID: 85
 post_title: >
   Ribbon Cutting Ceremony for Shepherd to
