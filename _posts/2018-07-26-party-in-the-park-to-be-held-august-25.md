@@ -1,8 +1,9 @@
 ---
+---
 ID: 110
 post_title: Party in the Park to be held August 25
 author: Jon Morgan
-post_excerpt: ""
+post_excerpt:
 layout: post
 permalink: >
   http://midmichiganjournal.com/party-in-the-park-to-be-held-august-25
