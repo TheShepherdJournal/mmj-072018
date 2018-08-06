@@ -10,7 +10,7 @@ permalink: >
 published: true
 post_date: 2018-08-05 23:40:27
 ---
-<em><a href="http://midmichiganjournal.com/?attachment_id=493" rel="attachment wp-att-493"><img class="alignnone size-medium wp-image-493" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/beach-scene-509x365.png" alt="" width="509" height="365" /></a></em>
+<em><a href="http://midmichiganjournal.com/story-assignment-summer-of-2018/beach-scene" rel="attachment wp-att-493"><img class="alignnone size-medium wp-image-493" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/beach-scene-509x365.png" alt="" width="509" height="365" /></a></em>
 
 <em>The Mid Michigan Journal</em> is looking for story submissions that take a look back at favorite memories from the summer. This can include highlights such as interesting trips, new experiences, or maybe continued traditions like camping with the family.
 
