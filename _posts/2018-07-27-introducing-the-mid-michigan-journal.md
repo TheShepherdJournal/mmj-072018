@@ -1,5 +1,4 @@
 ---
----
 ID: 239
 post_title: Introducing the Mid Michigan Journal
 author: Jon Morgan

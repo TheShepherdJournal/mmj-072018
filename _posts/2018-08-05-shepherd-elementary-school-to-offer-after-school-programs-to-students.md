@@ -1,5 +1,4 @@
 ---
----
 ID: 387
 post_title: >
   Shepherd Elementary School to offer

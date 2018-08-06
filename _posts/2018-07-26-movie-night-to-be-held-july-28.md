@@ -1,5 +1,4 @@
 ---
----
 ID: 125
 post_title: Movie Night to be held July 28
 author: Jon Morgan
