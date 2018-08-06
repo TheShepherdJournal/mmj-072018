@@ -10,6 +10,8 @@ permalink: >
 published: true
 post_date: 2018-08-05 21:46:27
 ---
+<a href="http://midmichiganjournal.com/veterans-night-to-be-held-september-14/jp-draws-us-flag" rel="attachment wp-att-407"><img class="alignnone size-medium wp-image-407" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/jp-draws-US-Flag-660x347.png" alt="" width="660" height="347" /></a>
+
 Veterans Night will be held Friday, September 14 at 5:30 p.m. inside the Veterans Memorial Stadium just before the home Varsity Football Game. The presentation will include:
 <h2>Pregame Tailgate (5:30pm)</h2>
 <ul>
