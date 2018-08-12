@@ -1,6 +1,6 @@
-# The Mid Michigan Journal
+# The Readout
 
-## August 6, 2018
+## August 13, 2018
 ### Pocket Edition
 
 
