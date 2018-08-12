@@ -8,4 +8,7 @@ layout: post
 permalink: 'http://midmichiganjournal.com?p=536&preview=true&preview_id=536'
 published: false
 ---
-Test
+
+[Newspaper](placeholder)
+
+This is a test Article.
