@@ -1,6 +1,10 @@
 # Summary
 
 * [Cover Page](README.md)
+
+## Recent
+
+## Stories
 * [Shepherd to Mount Pleasant Trail opened with Ribbon Cutting Ceremony](_posts/2018-08-04-shepherd-to-mount-pleasant-trail-opened-with-ribbon-cutting-ceremony.md)
 * [Back to School event to be held August 14](_posts/2018-07-26-back-to-school-event-to-be-held-august-14.md)
 * [Party in the Park to be held August 25](_posts/2018-07-26-party-in-the-park-to-be-held-august-25.md)
