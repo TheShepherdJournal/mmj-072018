@@ -11,7 +11,7 @@ categories:
   - Uncategorized
 ---
 
-![](../images/mmj-072018/images/Anonymous-school-in-Fall.png)
+![](../images/Anonymous-school-in-Fall.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam pellentesque pulvinar magna non volutpat. Nam tempor malesuada nulla, ut venenatis mauris ultrices non. Suspendisse sit amet ullamcorper erat. Sed molestie ante ut mauris suscipit, commodo efficitur nibh auctor. Proin arcu arcu, tincidunt vitae diam vitae, cursus aliquam massa. Quisque vel dignissim risus. Nulla tempor accumsan leo, sit amet tempus ante lacinia et. Pellentesque orci elit, hendrerit id pretium tempus, accumsan nec nulla. Quisque varius, nunc vel luctus dignissim, nibh diam mattis turpis, et ultricies metus orci viverra ipsum. Aliquam eget hendrerit magna. Etiam lobortis purus est, quis ultricies nulla posuere id. Integer in consequat nibh.
 
