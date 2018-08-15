@@ -11,13 +11,8 @@ published: true
 post_date: 2018-07-27 01:02:12
 ---
 <!-- wp:paragraph -->
-
-Here are photos from last year's Shepherd Farm to Table event.
-
+<p>Here are photos from last year's Shepherd Farm to Table event.</p>
 <!-- /wp:paragraph -->
-
 <!-- wp:paragraph -->
-
-[gkit id=1]
-
+<p>[gkit id=1]</p>
 <!-- /wp:paragraph -->
