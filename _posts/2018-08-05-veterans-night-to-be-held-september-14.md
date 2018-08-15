@@ -1,7 +1,9 @@
 ---
 ---
 ID: 403
-post_title: 'Veteran&#8217;s Night to be held September 14'
+post_title: >
+  Veteran’s Night to be held September
+  14
 author: Jon Morgan
 post_excerpt:
 layout: post
