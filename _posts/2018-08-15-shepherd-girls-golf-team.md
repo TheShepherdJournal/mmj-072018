@@ -10,7 +10,7 @@ permalink: >
 published: true
 post_date: 2018-08-15 19:25:22
 ---
-<em><a href="http://midmichiganjournal.com/shepherd-girls-golf-team/golf-club-sports2010" rel="attachment wp-att-633"><img class="alignnone size-medium wp-image-633" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/Golf-Club-Sports2010-117x365.png" alt="" width="117" height="365" /></a></em>
+<em><a href="http://midmichiganjournal.com/wp-content/uploads/2018/08/Golf-Club-Sports2010-e1534379568175.png" rel="attachment wp-att-633"><img class="alignnone wp-image-633 size-medium" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/Golf-Club-Sports2010-117x365.png" alt="" width="117" height="365" /></a></em>
 
 &nbsp;
 
