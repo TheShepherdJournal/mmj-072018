@@ -10,7 +10,7 @@ permalink: >
 published: true
 post_date: 2018-08-15 20:36:25
 ---
-<a href="http://midmichiganjournal.com/?attachment_id=643" rel="attachment wp-att-643"><img class="alignnone size-full wp-image-643" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/Police-Cap.png" alt="" width="300" height="186" /></a>
+<a href="http://midmichiganjournal.com/stuff-the-office/police-cap" rel="attachment wp-att-643"><img class="alignnone size-full wp-image-643" src="http://midmichiganjournal.com/wp-content/uploads/2018/08/Police-Cap.png" alt="" width="300" height="186" /></a>
 
 The <a href="http://midmichiganjournal.com/business/shepherd-police-department">Shepherd Police Department</a> is holding a Stuff the Office on behalf of the Foster Closet. They are accepting the following items:
 <ul>
