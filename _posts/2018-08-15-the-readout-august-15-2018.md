@@ -21,8 +21,4 @@ post_date: 2018-08-15 19:13:00
 
 [ic_add_posts category='readoutitem' tag='08182018']
 
-[tabby title='Download']
-
-TBD
-
 [tabbyending]
