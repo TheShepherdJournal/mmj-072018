@@ -4,7 +4,7 @@ ID: 618
 post_title: 'The Readout &#8211; August 15, 2018'
 author: Jon Morgan
 post_excerpt: |
-  Here is a digest of today's stories. Articles and news tips can be submitted by clicking on "Submit a Story" on the Mid Michigan Journal website or via an email sent to editor@midmichiganjournal.com.
+  Here is a digest of today's stories. Articles and news tips can be submitted by clicking on "Post a Story" on the Mid Michigan Journal website or via an email sent to editor@midmichiganjournal.com.
 layout: post
 permalink: >
   http://midmichiganjournal.com/the-readout-august-15-2018
