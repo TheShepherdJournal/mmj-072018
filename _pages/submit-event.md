@@ -10,4 +10,4 @@ permalink: >
 published: true
 post_date: 2018-08-22 21:01:17
 ---
-<p>[wpuf_form id=&quot;790&quot;]</p>
+[wpuf_form id="790"]
