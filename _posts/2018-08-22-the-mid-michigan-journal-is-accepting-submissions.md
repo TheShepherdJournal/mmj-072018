@@ -22,7 +22,7 @@ If you have a story that you would like to share with your community or the Mid 
  	<li><b>Via email.</b> Send an email message to <a href="mailto:editor@midmichiganjournal.com">editor@midmichiganjournal.com</a></li>
  	<li><b>Via <a href="https://www.facebook.com/midmichjournal/">Facebook Messenger</a>.</b></li>
 </ul>
-Visitors can access news articles, an event calendar, a business directory, and an online discussion forum, and will receive daily web updates when they register for an account.
+Visitors will be able to access news articles, an event calendar, a business directory, and an online discussion forum, and will receive daily web updates when they register for a free account.
 
 Stories and updates will also be shared on <i>The Mid Michigan Journal’s</i> <a href="https://www.facebook.com/midmichjournal/">Facebook </a>and <a href="https://twitter.com/midmichjournal">Twitter</a> feeds.
 
