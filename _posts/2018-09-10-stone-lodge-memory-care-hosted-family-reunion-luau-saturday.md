@@ -3,7 +3,7 @@
 ID: 899
 post_title: >
   Stone Lodge Memory Care hosted Family
-  Reunion Luau Saturday
+  Reunion Luau
 author: Jon Morgan
 post_excerpt:
 layout: post
