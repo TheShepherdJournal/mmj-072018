@@ -9,4 +9,4 @@ permalink: http://midmichiganjournal.com/reaction
 published: true
 post_date: 2018-09-13 22:13:45
 ---
-<p>[wpuf_form id=&quot;1006&quot;]</p>
+[wpuf_form id="1006"]
