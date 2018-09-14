@@ -18,5 +18,6 @@ The following organizations will be represented and giving presentation on schol
  	<li>Mt. Pleasant Community Foundation</li>
  	<li>Mid Michigan Community College</li>
 </ul>
+<!--more-->
 <h2>Reaction</h2>
 As a father of a recent high school graduate, I can not stress how incredibly important it is to attend this informational meeting and get a head start on planning out what scholarships your senior could be applying for as they begin thinking about their college plans.
