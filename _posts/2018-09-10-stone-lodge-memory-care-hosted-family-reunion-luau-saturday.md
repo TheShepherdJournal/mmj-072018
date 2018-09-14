@@ -14,7 +14,7 @@ post_date: 2018-09-10 22:55:36
 ---
 On Saturday, the Stone Lodge Memory Care center in Shepherd hosted a family reunion Luau for the families of past and current guests.
 
-Director and owner Mary Jo Gibbons explained the purpose of the Luau. the Luau was a community effort. "We are very excited about the large turn out," she said.  Families and friends of guests both past and current were among the attendees, as well as staff members and their family members."
+Director and owner Mary Jo Gibbons explained the purpose of the Luau. the Luau was a community effort. "We are very excited about the large turn out," she said.  Families and friends of guests both past and current were among the attendees, as well as staff members and their family members."<!--more-->
 
 "It is all about friendship and the love we share and the love we share and good memories we've had," Gibbons said.
 
