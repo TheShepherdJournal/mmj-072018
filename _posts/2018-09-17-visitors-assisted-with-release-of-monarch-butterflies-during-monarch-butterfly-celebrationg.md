@@ -4,7 +4,7 @@ ID: 1176
 post_title: >
   Visitors assisted with release of
   Monarch butterflies during Monarch
-  Butterfly Celebrationg
+  Butterfly Celebration
 author: Jon Morgan
 post_excerpt:
 layout: post
