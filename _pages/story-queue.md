@@ -24,7 +24,7 @@ Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
 [tabby title="Pending"]
 
-sleep in the sink climb the curtains attack, give me fish.
+[ic_add_posts post_type='gdoc']
 
 [tabby title="In Progress"]
 
