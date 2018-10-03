@@ -10,3 +10,24 @@ permalink: >
 published: true
 post_date: 2018-10-02 22:01:38
 ---
+[tabby title="Assignments"]
+
+Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
+
+[tabby title="News Tips"]
+
+Lay down in your way catnip stuck in a tree, sunbathe kittens.
+
+[tabby title="Pending"]
+
+sleep in the sink climb the curtains attack, give me fish.
+
+[tabby title="In Progress"]
+
+TBD
+
+[tabby title="Ready to Publish"]
+
+TBD
+
+[tabbyending]
