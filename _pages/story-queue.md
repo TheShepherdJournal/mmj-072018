@@ -24,11 +24,11 @@ Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
 [tabby title="Article"]
 
-[ic_add_posts post_type='article' post_status='pitch']
+[ic_add_posts post_type='article']
 
 [tabby title="Google Documents"]
 
-[ic_add_posts post_type='gdoc' post_status='in_progress']
+[ic_add_posts post_type='gdoc']
 
 [tabby title="Ready to Publish"]
 
