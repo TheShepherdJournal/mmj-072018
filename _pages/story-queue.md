@@ -24,7 +24,7 @@ Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
 [tabby title="Article"]
 
-[ic_add_posts post_type='article']
+[ic_add_posts post_type='articles']
 
 [tabby title="Google Documents"]
 
