@@ -28,10 +28,10 @@ Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
 [tabby title="In Progress"]
 
-TBD
+[ic_add_posts post_type='gdoc' post_status='in_progress']
 
 [tabby title="Ready to Publish"]
 
-TBD
+[ic_add_posts post_type='gdoc' post_status='Ready to Publish']
 
 [tabbyending]
