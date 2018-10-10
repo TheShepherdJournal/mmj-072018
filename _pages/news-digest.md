@@ -12,6 +12,6 @@ post_date: 2018-10-10 00:03:39
 ---
 [tabby title="October 10, 2018"]
 
-[ic_add_posts tags='10102018']
+[ic_add_posts tag='10102018']
 
 [tabbyending]
