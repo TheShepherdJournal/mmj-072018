@@ -12,8 +12,6 @@ permalink: >
 published: true
 post_date: 2018-10-22 23:15:04
 ---
-&nbsp;
-
 The <a href="https://www.facebook.com/675717752466246/photos/a.1546325378738808/1983835971654411/?type=3&amp;__xts__%5B0%5D=68.ARDAAJRDqKJFDzFGp8-B4PexWldul4I8cmn6txlVmtZvVsnKE0Mkb8ThcLO-Ur9e6Ao_cNa1OoZjxvKJSXNzPWseN4wLs2R7dDaYmq_kC3inL3BP9mkWqPfr0CID5ynlzymN_7smRbdiZ13UBXGsg61jtxQaUbTEvZkvJrqxlw6rgQKZh_vEvv23UFo6eF4EA3NL0wTn2RsgHpbrX0bwN7Kon0iRoJEOCW9Ax1ua7w-_DdJZtAf6-v7h1Q&amp;__tn__=-R">Shepherd Elementary School posted information</a> about its upcoming Halloween parade, which will be held on Wednesday, October 31st. The parade will begin at 1:30 p.m.
 <ul>
  	<li><b>Parade Route:</b> The parade of costumed kids will begin on Hall Street south of the Elementary gym and move west to Fourth Street, then North on Fourth street, West on Wright Avenue, then down Second street, and then South on Maple Street. Then, the parade will continue east on Maple Street back towards the schools.</li>
