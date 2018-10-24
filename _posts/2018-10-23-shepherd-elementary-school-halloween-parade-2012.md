@@ -12,4 +12,4 @@ permalink: >
 published: true
 post_date: 2018-10-23 21:56:23
 ---
-[robo-gallery id="1384"]
+<p>[robo-gallery id=&quot;1384&quot;]</p>
