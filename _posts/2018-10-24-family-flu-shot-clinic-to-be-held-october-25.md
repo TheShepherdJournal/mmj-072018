@@ -12,4 +12,4 @@ permalink: >
 published: true
 post_date: 2018-10-24 21:54:05
 ---
-A Family Flu Shot Clinic will be held in the Shepherd Elementary School Cafeteria on Thursday, October 25th beginning at 3:00 PM. For more information, call (989) 773-5921.
+<p>A Family Flu Shot Clinic will be held in the Shepherd Elementary School Cafeteria on Thursday, October 25th beginning at 3:00 PM. For more information, call (989) 773-5921.</p>
