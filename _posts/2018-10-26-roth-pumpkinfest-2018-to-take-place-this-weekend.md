@@ -12,8 +12,6 @@ permalink: >
 published: true
 post_date: 2018-10-26 19:29:25
 ---
-&nbsp;
-
 Shepherd community members will be coming together once again to help carve pumpkins as a part of the Roth Pumpkinfest 2018 taking place at 109 North Second Street. A total of 1,500 pumpkins will be gutted and craved by volunteers.
 
 The schedule will be as follows:
