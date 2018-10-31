@@ -12,4 +12,4 @@ permalink: >
 published: true
 post_date: 2018-10-30 22:50:50
 ---
-Shepherd High School student Lauren Travis has been chosen as Science Student of the Month for October.
+<p>Shepherd High School student Lauren Travis has been chosen as Science Student of the Month for October.</p>
