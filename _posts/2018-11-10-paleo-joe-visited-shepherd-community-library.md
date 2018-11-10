@@ -2,7 +2,8 @@
 ---
 ID: 1851
 post_title: >
-  Paleo Joe Visited Shepherd Community
+  Dinosaurs brought to life during
+  presentation at Shepherd Community
   Library
 author: Jon Morgan
 post_excerpt:
