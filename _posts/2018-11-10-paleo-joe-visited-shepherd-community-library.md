@@ -2,8 +2,7 @@
 ---
 ID: 1851
 post_title: >
-  Dinosaurs brought to life during
-  presentation at Shepherd Community
+  Paleo Joe visited the Shepherd Community
   Library
 author: Jon Morgan
 post_excerpt:
