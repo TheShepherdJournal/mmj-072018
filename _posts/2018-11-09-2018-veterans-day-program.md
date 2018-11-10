@@ -10,5 +10,6 @@ permalink: >
 published: true
 post_date: 2018-11-09 23:18:42
 ---
-<p>A Veterans Day Program will be held inside the Shepherd High School gymnasium on Monday, November 12 starting at 9:15 a.m.</p>
-<p><a href="https://www.facebook.com/events/2274714059425665/">For more details, follow the Facebook event</a>.</p>
+A Veterans Day Program will be held inside the Shepherd High School gymnasium on Monday, November 12 starting at 9:15 a.m.
+
+<a href="https://www.facebook.com/events/2274714059425665/">For more details, follow the Facebook event</a>.
