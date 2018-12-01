@@ -13,7 +13,7 @@ permalink: >
 published: true
 post_date: 2018-11-30 23:43:42
 ---
-<a href="http://midmichiganjournal.com/?attachment_id=1988" rel="attachment wp-att-1988"><img class="alignnone size-medium wp-image-1988" src="http://midmichiganjournal.com/wp-content/uploads/2018/11/null-2-511x365.png" alt="" width="511" height="365" /></a>
+<a href="http://midmichiganjournal.com/veterans-memorial-library-to-host-interactive-mary-poppins-event-on-december-7/null-24" rel="attachment wp-att-1988"><img class="alignnone size-medium wp-image-1988" src="http://midmichiganjournal.com/wp-content/uploads/2018/11/null-2-511x365.png" alt="" width="511" height="365" /></a>
 
 On Friday, December 7, the Veterans Memorial Library will host a special interactive presentation of “Mary Poppins.” According to the library’s website, Mary Poppins will “come to life” and “each participant will receive a bag of items they will use throughout the film.” The event will start at 5:30 p.m.
 
